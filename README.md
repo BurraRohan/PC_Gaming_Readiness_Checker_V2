@@ -3,6 +3,7 @@
 A comprehensive, interactive tool to analyze your PC's hardware and determine its readiness for modern gaming at various resolutions.
 
 <img src="assets/logo.png" alt="logo" width="200" height="200">
+
 ---
 
 ## 📖 About The Project
