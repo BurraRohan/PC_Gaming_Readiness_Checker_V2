@@ -2,8 +2,9 @@
 
 A comprehensive, interactive tool to analyze your PC's hardware and determine its readiness for modern gaming at various resolutions.
 
-![PC Gaming Readiness Checker Screenshot](https://placehold.co/800x450/1f2937/9ca3af?text=Your+App+Screenshot+Here)
-
+<p align="center">
+  <img src="https://storage.googleapis.com/gemini-generative-ai-api-prod/images/81a4e12f-0029-430c-8833-a3a8d6333061" alt="PC Gaming Readiness Checker Logo" width="150">
+</p>
 ---
 
 ## 📖 About The Project
